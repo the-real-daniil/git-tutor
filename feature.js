@@ -1,1 +1,1 @@
-const feature = "new pretty sidebar";
+const feature = "new pretty logo";
